@@ -10,5 +10,8 @@ const bindingProps = {id: "test-id", name: "test-name", alt: "test-alt"}
     <div>
       <BindingShorthand v-bind="bindingProps" />
     </div>
+    <div>
+      <WatchEffectExample />
+    </div>
   </div>
 </template>
