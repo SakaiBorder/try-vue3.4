@@ -1,5 +1,5 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <ModelExampleComponent :count="5"/>
   </div>
 </template>
