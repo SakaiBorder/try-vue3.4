@@ -13,5 +13,8 @@ const bindingProps = {id: "test-id", name: "test-name", alt: "test-alt"}
     <div>
       <WatchEffectExample />
     </div>
+    <div>
+      <ComputedExample />
+    </div>
   </div>
 </template>
